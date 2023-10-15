@@ -1,7 +1,7 @@
 # loginPHP_folder_universitytask
 
 1. **Buka Halaman Utama**:
- Unduh file didalam repository lalu buka menggunakan Visual Studio Code atau software lain yang mendukung penampilan hasil code, Lalu jangan lupa upload file sql didalam phpmyadmin untuk bisa mengakses file login menggunakan bahasa php tersebut untuk melihat semua aset yang ada di Website tersebut.
+ Unduh file tersebut didalam repository lalu buka menggunakan Visual Studio Code atau software lain yang mendukung penampilan hasil code, Lalu jangan lupa upload file sql didalam repository "phpmyadmin_databasePHP_folder_universitytask" didalam localhost phpmyadmin untuk bisa mengakses file login menggunakan bahasa php tersebut untuk melihat semua aset yang ada di Website tersebut.
 
 ## Kontribusi
 
